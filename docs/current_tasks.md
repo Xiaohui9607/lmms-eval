@@ -1,7 +1,7 @@
 # Current Tasks
 
 > () indicates the task name in the lmms_eval. The task name is also used to specify the dataset in the configuration file.
-> The following is manually updated documentation. You could use `lmms_eval task --list` to list all supported tasks and their task names. 
+> The following is manually updated documentation. You could use `lmms_eval --task list` to list all supported tasks and their task names. 
 
 - AI2D (ai2d)
 - ChartQA (chartqa)
