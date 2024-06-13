@@ -5,6 +5,7 @@ os.environ["HF_HUB_ENABLE_HF_TRANSFER"] = "1"
 
 AVAILABLE_MODELS = {
     "llava": "Llava",
+    "llava_hf": "LlavaHF",
     "qwen_vl": "Qwen_VL",
     "fuyu": "Fuyu",
     "batch_gpt4": "BatchGPT4",
